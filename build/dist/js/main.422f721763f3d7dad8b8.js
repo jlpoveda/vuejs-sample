@@ -1,0 +1,2 @@
+webpackJsonp([1],{NHnr:function(e,a,n){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),new(n("7+uW").a)({el:".vue-app",data:{data:{h:"b"}}})}},["NHnr"]);
+//# sourceMappingURL=main.422f721763f3d7dad8b8.js.map
